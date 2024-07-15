@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 import os
 import requests
 import re
-from datetime import datetime, date
+#from datetime import datetime, date
 import streamlit as st
 import openai
-import random
+#import random
 
 ##UDFs 
 
